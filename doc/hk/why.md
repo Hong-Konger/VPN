@@ -8,7 +8,7 @@
 
 如果你係為左睇Netflix，真心揀邊個都唔緊要。你係度係因為你珍惜自由，要肯定你可以睇到人地唔想你睇到嘅嘢。
 
-查實有啲國家[審查得越黎越勁](https://medium.com/@phoebecross/bypass-gfw-china-2018-2e553a3d9618)，打壓VPN，[令到越黎越多VPN用唔到](https://program-think.blogspot.com/2019/06/gfw-news.html)。既然你搵緊VPN，點解唔問吓日日同佢鬥嗰啲人？
+查實有啲國家[審查得越黎越勁](https://globalvoices.org/2017/08/30/the-evolution-of-chinas-great-firewall-21-years-of-censorship/)，[打壓VPN](https://medium.com/@phoebecross/bypass-gfw-china-2018-2e553a3d9618)，[令到越黎越多VPN用唔到](https://program-think.blogspot.com/2019/06/gfw-news.html)。既然你搵緊VPN，點解唔問吓日日同佢鬥嗰啲人？
 
 簡單咁講吓翻牆嘅歷史：
 - 普遍嘅VPN制式PPTP、L2TP/IPsec同冇掩飾嘅OpenVPN一早己經封殺左

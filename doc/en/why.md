@@ -8,7 +8,7 @@ Ask yourself, why do you need a VPN?
 
 If you are trying to watch Netflix than it doesn't really matter. But you are here because you value freedom, and you want to ensure access to information that some people don't want you to see.
 
-It is known that certain countries [increase their censorship effort](https://medium.com/@phoebecross/bypass-gfw-china-2018-2e553a3d9618) targeting VPN traffic and [more and more VPN tools have stopped working](https://program-think.blogspot.com/2019/06/gfw-news.html). If you are looking for a VPN, there are no better people to ask than those who are in it every day trying to fight it.
+It is known that certain countries [increase their censorship effort](https://globalvoices.org/2017/08/30/the-evolution-of-chinas-great-firewall-21-years-of-censorship/), [targeting VPN traffic](https://medium.com/@phoebecross/bypass-gfw-china-2018-2e553a3d9618) and [more and more VPN tools have stopped working](https://program-think.blogspot.com/2019/06/gfw-news.html). If you are looking for a VPN, there are no better people to ask than those who are in it every day trying to fight it.
 
 Here's a brief history of the fight against censorship:
 - Common VPN protocols such as PPTP, L2TP/IPsec, and unobfuscated OpenVPN has long been blocked
